@@ -5,14 +5,14 @@
 Este GitHub estará dedicado específicamente a dar información relacionada a los trackers hechos por mi, dando también links de utilidad y Preguntas Frecuentes.
 
 Índice
-- [¿Cómo funcionan?](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#c%C3%B3mo-funcionan)
-- [Información Técnica](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#informaci%C3%B3n-t%C3%A9cnica)
-- [Drift](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#drift)
-- [Kits](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#kits)
-- [Waist Upgrade](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#waist-upgrade)
-- [Pedidos personalizados](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#pedidos-personalizados)
-- [Preguntas Frecuentes](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#preguntas-frecuentes)
-- [Contacto](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#contacto)
+- [¿Cómo funcionan?](https://github.com/Fowels/FowelsTrackers/tree/main#c%C3%B3mo-funcionan)
+- [Información Técnica](https://github.com/Fowels/FowelsTrackers/tree/main#informaci%C3%B3n-t%C3%A9cnica)
+- [Drift](https://github.com/Fowels/FowelsTrackers/tree/main#drift)
+- [Kits](https://github.com/Fowels/FowelsTrackers/tree/main#kits)
+- [Waist Upgrade](https://github.com/Fowels/FowelsTrackers/tree/main#waist-upgrade)
+- [Pedidos personalizados](https://github.com/Fowels/FowelsTrackers/tree/main#pedidos-personalizados)
+- [Preguntas Frecuentes](https://github.com/Fowels/FowelsTrackers/tree/main#preguntas-frecuentes)
+- [Contacto](https://github.com/Fowels/FowelsTrackers/tree/main#contacto)
 
 ## ¿Cómo funcionan?
 
