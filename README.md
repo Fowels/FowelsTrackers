@@ -86,19 +86,19 @@ Actualmente hay 3 diferentes Kits de Trackers disponibles: Básico, Medio y Avan
 > 
 > Se recomienda este kit si es que quieres tener un tracking más fidedigno a la vida real.
 
-Recordar que cada Kit de Trackers incluye straps (correas), cables de carga, stickers para nombrar los Trackers ¡y más!, cómo está estipulado en [Información Técnica](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#informaci%C3%B3n-t%C3%A9cnica)
+Recordar que cada Kit de Trackers incluye straps (correas), cables de carga, stickers para nombrar los Trackers ¡y más!, cómo está estipulado en [Información Técnica](https://github.com/Fowels/FowelsTrackers/tree/main#informaci%C3%B3n-t%C3%A9cnica)
 
 ## Waist Upgrade
 
-A pesar de los [Kits](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#kits), vendo un ***[Waist Upgrade](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#waist-upgrade) ($35.000 CLP)***, el cuál da un movimiento de pelvis aún más realista además de darle más estabilidad al pecho al agregar un tracker más a tu **Cintura**.
+A pesar de los [Kits](https://github.com/Fowels/FowelsTrackers/tree/main#kits), vendo un ***[Waist Upgrade](https://github.com/Fowels/FowelsTrackers/tree/main#waist-upgrade) ($35.000 CLP)***, el cuál da un movimiento de pelvis aún más realista además de darle más estabilidad al pecho al agregar un tracker más a tu **Cintura**.
 
 Es recomendado para aquellas personas ***que desean bailar*** frecuentemente o son más exigentes.
 
-Este [Waist Upgrade](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#waist-upgrade) no viene incluido en los kits para hacer los precios más atractivos y al no ser determinante al momento de tener o no Full Body Tracking, pero ***personalmente*** lo recomiendo.
+Este [Waist Upgrade](https://github.com/Fowels/FowelsTrackers/tree/main#waist-upgrade) no viene incluido en los kits para hacer los precios más atractivos y al no ser determinante al momento de tener o no Full Body Tracking, pero ***personalmente*** lo recomiendo.
 
 ## Pedidos Personalizados
 
-Si tienes algun proyecto en mente, [contactar a Forels](https://github.com/Fowels/FowelsTrackers/edit/main/README.md#contacto).
+Si tienes algun proyecto en mente, [contactar a Forels](https://github.com/Fowels/FowelsTrackers/tree/main#contacto).
 
 Si deseas comprar uno o más trackers por separado el valor es de $50.000 CLP cada uno.
 
