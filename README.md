@@ -90,11 +90,11 @@ Recordar que cada Kit de Trackers incluye straps (correas), cables de carga, sti
 
 ## Waist Upgrade
 
-A pesar de los [Kits](https://github.com/Fowels/FowelsTrackers/tree/main#kits), vendo un ***[Waist Upgrade](https://github.com/Fowels/FowelsTrackers/tree/main#waist-upgrade) ($35.000 CLP)***, el cuál da un movimiento de pelvis aún más realista además de darle más estabilidad al pecho al agregar un tracker más a tu **Cintura**.
+A pesar de los [Kits](https://github.com/Fowels/FowelsTrackers/tree/main#kits), vendo un ***Waist Upgrade ($35.000 CLP)***, el cuál da un movimiento de pelvis aún más realista además de darle más estabilidad al pecho al agregar un tracker más a tu **Cintura**.
 
 Es recomendado para aquellas personas ***que desean bailar*** frecuentemente o son más exigentes.
 
-Este [Waist Upgrade](https://github.com/Fowels/FowelsTrackers/tree/main#waist-upgrade) no viene incluido en los kits para hacer los precios más atractivos y al no ser determinante al momento de tener o no Full Body Tracking, pero ***personalmente*** lo recomiendo.
+Este Waist Upgrade no viene incluido en los kits para hacer los precios más atractivos y al no ser determinante al momento de tener o no Full Body Tracking, pero ***personalmente*** lo recomiendo.
 
 ## Pedidos Personalizados
 
